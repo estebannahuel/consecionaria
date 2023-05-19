@@ -1,0 +1,46 @@
+[
+   {
+      "marca": "ford",
+      "modelo": "fiesta",
+      "color": "azul",
+      "anio": 2019,
+      "km": 200,
+      "patente": "APL123",
+      "precio": 150000,
+      "cuotas": 12,
+      "vendido": false
+   },
+   {
+      "marca": "toyota",
+      "modelo": "corola",
+      "color": "blanco",
+      "anio": 2019,
+      "km": 0,
+      "patente": "jjK116",
+      "precio": 100000,
+      "cuotas": 14,
+      "vendido": false
+   },
+   {
+      "marca": "ford",
+      "modelo": "focus",
+      "color": "verde",
+      "anio": 2000,
+      "km": 100,
+      "patente": "GFO198",
+      "precio": 150000,
+      "cuotas": 12,
+      "vendido": false
+   },
+   {
+      "marca": "fiat",
+      "modelo": "uno",
+      "color": "rojo",
+      "anio": 2000,
+      "km": 500,
+      "patente": "SSO178",
+      "precio": 120000,
+      "cuotas": 9,
+      "vendido": false
+   }
+]
